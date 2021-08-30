@@ -2,7 +2,11 @@
 
 This is the cub3D project from the new cursus.
 
-Mandatory part:
+In this project i implemented simple raycasting game engine on C. With simple level editor and basic mechanics.
+
+For rendering, I used the minilibx library.
+
+Main part:
 - [x] Raycasting
 - [x] Moving
 - [x] Textures on walls
@@ -38,7 +42,7 @@ Bonus part:
 </p>
 
 <p align="center">
-  <b>Adding textures on walls</b>
+  <b>Added textures on walls</b>
 </p>
 
 <p align="center">
@@ -46,7 +50,7 @@ Bonus part:
 </p>
 
 <p align="center">
-  <b>Adding distance related shadow effect and  simple animated hand</b>
+  <b>Added distance related shadow effect and  simple animated hand</b>
 </p>
 
 <p align="center">
@@ -58,7 +62,7 @@ Bonus part:
 </p>
 
 <p align="center">
-  <b>Adding simple and animated sprites</b>
+  <b>Added simple and animated sprites</b>
 </p>
 
 <p align="center">
@@ -74,7 +78,7 @@ Bonus part:
 </p>
 
 <p align="center">
-  <b>Adding skybox and point bar</b>
+  <b>Added skybox and point bar</b>
 </p>
 
 <p align="center">
