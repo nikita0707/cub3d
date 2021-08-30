@@ -27,6 +27,60 @@ Bonus part:
 - [x] Rotate the point of view with the mouse.
 - [x] Teleports.
 
+## Stages of development:
+
+<p align="center">
+  <b>Simple Ray casting implementation</b>
+</p>
+
+<p align="center">
+  <img src="/screenshots/screenshot1.bmp" width="50%" />
+</p>
+
+<p align="center">
+  <b>Adding textures on walls</b>
+</p>
+
+<p align="center">
+  <img src="/screenshots/screenshot2.bmp" width="50%" />
+</p>
+
+<p align="center">
+  <b>Adding distance related shadow effect and  simple animated hand</b>
+</p>
+
+<p align="center">
+  <img src="/screenshots/screenshot4.bmp" width="50%" />
+</p>
+
+<p align="center">
+  <img src="/screenshots/screenshot5.bmp" width="50%" />
+</p>
+
+<p align="center">
+  <b>Adding simple and animated sprites</b>
+</p>
+
+<p align="center">
+  <img src="/screenshots/screenshot6.bmp" width="50%" />
+</p>
+
+<p align="center">
+  <b>Made the shadows smoother</b>
+</p>
+
+<p align="center">
+  <img src="/screenshots/screenshot7.bmp" width="50%" />
+</p>
+
+<p align="center">
+  <b>Adding skybox and point bar</b>
+</p>
+
+<p align="center">
+  <img src="/screenshots/screenshot8.bmp" width="50%" />
+</p>
+
 ## docs
 
 Here are some random useful / interesting links:
